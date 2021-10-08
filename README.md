@@ -12,5 +12,5 @@ Repositório destinado ao projeto flexblox, realizado durante o curso da Origami
 
 # Mobile
 <p align="center">
-<img src="img/prints/flexblog-mobile.jpg">
+<img src="img/prints/flexblog-mobile.jpeg">
 <p>
